@@ -22,21 +22,13 @@ Lógica de Programação
 
 🚀 Atualmente desenvolvo o projeto LabResíduos, uma aplicação criada para auxiliar estudantes na realização de cálculos laboratoriais ambientais.
 
-## Tecnologias/feramentas 
+## Feramentas 
 
 Python
-
-SQL
-
-Power BI
-
-AWS
 
 GitHub
 
 Streamlit
-
-Excel
 
 Inteligência Artificial
 
