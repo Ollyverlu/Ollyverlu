@@ -4,19 +4,25 @@
 
 ## 🎓 Graduada em Tecnologia da Informação
 
-💻 ## Tenho conhecimentos em 
+## Tenho conhecimentos em 
+
 Python
+
 SQL
+
 Power BI
+
 AWS
+
 Inteligência Artificial
+
 Lógica de Programação
 
 📊 Sou apaixonada por tecnologia, análise de dados, automação de processos e desenvolvimento de soluções que facilitem o aprendizado e a resolução de problemas.
 
 🚀 Atualmente desenvolvo o projeto LabResíduos, uma aplicação criada para auxiliar estudantes na realização de cálculos laboratoriais ambientais.
 
-Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 Python
 SQL
 Power BI
