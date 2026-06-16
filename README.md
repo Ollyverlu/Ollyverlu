@@ -23,6 +23,7 @@ Lógica de Programação
 🚀 Atualmente desenvolvo o projeto LabResíduos, uma aplicação criada para auxiliar estudantes na realização de cálculos laboratoriais ambientais.
 
 ## Tecnologias e Ferramentas
+
 Python
 
 SQL
@@ -30,16 +31,16 @@ SQL
 Power BI
 
 AWS
+
 GitHub
 
 Streamlit
+
 Excel
 
 Inteligência Artificial
 
-Projetos em Destaque
-
- ## LabResíduos
+## Projetos em Destaque LabResíduos
 Aplicação desenvolvida em Python para auxiliar estudantes em cálculos laboratoriais ambientais, promovendo aprendizado prático e automatização de processos.
 
  ## Objetivo Profissional
