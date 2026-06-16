@@ -1,5 +1,6 @@
+<img width="800" height="600" alt="banner" src="https://github.com/user-attachments/assets/e61a7e94-df96-4a59-983a-fe7995d6f13c" />
+
+Oá! É bom ter você por aqui!
 
 
-# <img width="250" height="280" alt="MuaKissGIF" src="https://github.com/user-attachments/assets/a4e5161e-e14f-4cec-ab76-26d34eff2c80" />
 
-Oá! É bom ter você por aqui.
