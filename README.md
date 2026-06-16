@@ -4,7 +4,7 @@
 
 ## 🎓 Graduada em Tecnologia da Informação
 
-## Tenho conhecimentos em 
+## Tenho conhecimentos em:
 
 Python
 
@@ -24,16 +24,22 @@ Lógica de Programação
 
 ## Tecnologias e Ferramentas
 Python
+
 SQL
+
 Power BI
+
 AWS
 GitHub
+
 Streamlit
 Excel
+
 Inteligência Artificial
+
 Projetos em Destaque
 
-🔹 ## LabResíduos
+ ## LabResíduos
 Aplicação desenvolvida em Python para auxiliar estudantes em cálculos laboratoriais ambientais, promovendo aprendizado prático e automatização de processos.
 
  ## Objetivo Profissional
