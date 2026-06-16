@@ -22,7 +22,7 @@ Lógica de Programação
 
 🚀 Atualmente desenvolvo o projeto LabResíduos, uma aplicação criada para auxiliar estudantes na realização de cálculos laboratoriais ambientais.
 
-## Tecnologias e Ferramentas
+## Tecnologias/feramentas 
 
 Python
 
