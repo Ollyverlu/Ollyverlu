@@ -22,9 +22,9 @@
 
 - Lógica de Programação
 
-📊 Sou apaixonada por tecnologia, análise de dados, automação de processos e desenvolvimento de soluções que facilitem o aprendizado e a resolução de problemas.
+❤️ Sou apaixonada por tecnologia, análise de dados, automação de processos e desenvolvimento de soluções que facilitem o aprendizado e a resolução de problemas.
 
-🚀 Atualmente desenvolvo o projeto LabResíduos, uma aplicação criada para auxiliar estudantes na realização de cálculos laboratoriais ambientais.
+😍 Atualmente desenvolvo o projeto LabResíduos, uma aplicação criada para auxiliar estudantes na realização de cálculos laboratoriais ambientais.
 
 ## Feramentas 
 
