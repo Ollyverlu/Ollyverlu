@@ -1,3 +1,3 @@
-<img src-"giphy(1).gif"width-"325">
+<img src-"giphy(1)gif.gif"width-"325px">
 
-# Seja brm vindo e bem vinda  ao meu Github! É bom ter você por aqui.
+# Seja bem vindo e bem vinda  ao meu Github! É bom ter você por aqui.
