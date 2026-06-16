@@ -1,4 +1,8 @@
-<img width="800" height="600" alt="banner" src="https://github.com/user-attachments/assets/e61a7e94-df96-4a59-983a-fe7995d6f13c" />
+
+
+<img width="500" height="333" alt="giphy (3)" src="https://github.com/user-attachments/assets/de49519e-ceb0-4a7e-a010-8af42cc7cf38" />
+
+
 
 # Olá, eu sou Luciana Oliveira de Albuquerque 👋
 
